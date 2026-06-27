@@ -1,0 +1,6 @@
+{
+  "name": "MarketPlace",
+  "description": "A premium, modern, and professional e-commerce platform with elegant page transitions, cart persistence, interactive listings, product details, dynamic checkout flow, and user profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
